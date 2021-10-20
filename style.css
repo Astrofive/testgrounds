@@ -3,3 +3,7 @@ body {
     background-color: rgb(76, 140, 212);
     text-align: center;
 }
+
+body p {
+    color: rgb(184, 184, 184);
+}
